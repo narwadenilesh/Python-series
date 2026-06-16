@@ -1,6 +1,6 @@
 # 🐍 Python Series (Hindi)
 
-Hanji, ye Python ki series hai jisme hum Python programming language ko **Basics se Advanced Level** tak seekhenge. Ye series Hindi me hai taaki concepts ko aasani se samjha ja sake aur programming ka foundation strong banaya ja sake.
+Hanji, ye Python ki series hai jisme hum Python programming language ko **Basics se Advanced Level** tak seekhenge.
 
 ## 📚 What You'll Learn
 
